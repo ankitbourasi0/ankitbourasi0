@@ -209,7 +209,7 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=pandas"
+      src="https://pandas.pydata.org/static/img/pandas_white.svg"
       alt="pandas"
       width="40"
       height="40"
@@ -257,7 +257,7 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=scikit-learn"
+      src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"
       alt="scikit_learn"
       width="40"
       height="40"
@@ -265,7 +265,7 @@
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://skillicons.dev/icons?i=seaborn"
+      src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"
       alt="seaborn"
       width="40"
       height="40"
