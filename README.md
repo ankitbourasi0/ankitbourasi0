@@ -209,7 +209,7 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://pandas.pydata.org/static/img/pandas_white.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5trjQESAG_x_Z2_qMw005kATsYYqIiXizD3ZETZo&s"
       alt="pandas"
       width="40"
       height="40"
