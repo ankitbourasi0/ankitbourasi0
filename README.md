@@ -34,36 +34,32 @@
 <p align="left">
   <a href="https://twitter.com/ankitbourasi24" target="blank"
     ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ankitbourasi24"
-      height="30"
+      src="https://skillicons.dev/icons?i=twitter"
+      alt="ankitbourasi0"
       width="40"
-  /></a>
+      height="40"
+    /></a>
   <a href="https://linkedin.com/in/ankitbourasi0" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    > <img
+      src="https://skillicons.dev/icons?i=linkedin"
       alt="ankitbourasi0"
-      height="30"
       width="40"
-  /></a>
+      height="40"
+    /></a>
   <a href="https://instagram.com/ankitbourasi0" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    > <img
+      src="https://skillicons.dev/icons?i=instagram"
       alt="ankitbourasi0"
-      height="30"
       width="40"
-  /></a>
+      height="40"
+    /></a>
   <a href="https://www.leetcode.com/ankitbourasi0" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    > <img
+      src="https://img.icons8.com/?size=80&id=9L16NypUzu38&format=png"
       alt="ankitbourasi0"
-      height="30"
       width="40"
-  /></a>
+      height="40"
+    /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
