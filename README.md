@@ -17,7 +17,7 @@ I'm a passionate software engineer and AI enthusiast from India. As a recent gra
 
 - 🔭 I'm currently developing an **Open Source Free Resources Web App**
   - Live Link: [https://www.samosabyte.tech/](https://www.samosabyte.tech/)
-- 🌱 I'm expanding my expertise in the **Next.js Framework**
+- 🌱 I'm expanding my expertise in the **Spring Boot & Next.js**
 - 💬 Feel free to ask me about **React, Next.js, JavaScript, Java, Python, and Machine Learning**
 - 📫 Reach out to me at: **ankitbourasi0@gmail.com**
 
