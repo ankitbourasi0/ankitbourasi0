@@ -1,7 +1,8 @@
-<img
+<!-- <img
   alt="banner"
   src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-/>
+/> -->
+<img width="2000" height="600" alt="Linkedin Cover 22_06_25" src="https://github.com/user-attachments/assets/bb1c95ea-74e1-4f7b-b8c4-a096263d2519" />
 
 # Hello 👋, I'm Ankit Bourasi
 
